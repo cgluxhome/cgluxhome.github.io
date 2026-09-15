@@ -1,7 +1,11 @@
-# CCLUX HOME
+# CGLUX HOME
 
-Bespoke Indoor & Outdoor Furniture Solutions
+Custom Global Luxury
 
 Website:
 
-https://ccluxfurnishings.github.io/
+https://cgluxhome.github.io/
+
+## About
+
+CGLUX HOME | Custom Global Luxury
